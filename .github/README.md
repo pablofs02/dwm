@@ -1,0 +1,1 @@
+- Cambiar bordes y espaciado entre ventanas
