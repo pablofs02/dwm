@@ -43,9 +43,9 @@ static const int scrollsensetivity = 30; /* 1 means resize window by 1 pixel for
 
 static const Layout layouts[] = {
 	/* symbol     arrange function */
-	{ "[]",       tile },    /* first entry is default */
-	{ "><",       NULL },    /* no layout function means floating behavior */
-	{ "[M]",      monocle },
+	{ "🔳",       tile },    /* first entry is default */
+	{ "🎈",       NULL },    /* no layout function means floating behavior */
+	{ "🆓",      monocle },
 };
 
 /* resizemousescroll direction argument list */
